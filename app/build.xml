@@ -8,7 +8,7 @@
     <pathelement path="${env.JAVA_HOME}/lib/tools.jar"/>
     <pathelement path="../arduino-core/arduino-core.jar"/>
   </path>
-
+    <!-- Just to check version handle -->
   <path id="class.path.test">
     <path refid="class.path"/>
     <pathelement location="bin/"/>
